@@ -15,7 +15,7 @@ output:
 ## Bio
 
 Shoubhik Bhattacharya is a graduating senior at the University of Toronto.He in completing a Bachelor of Arts Degree by majoring in Economics with a focus in Data Analytics while completing his minors in Statistics and Buddhist Psychology & Mental health. He has a strong passion for analytics by making sense out of data sets to produce meaningful and significant findings! This passion is fueled by his ability to code in programming languages such as Python, R, SQL and STATA.
-He has experience working in the educational sector as a Teaching Assistant at the University of Toronto and as a tutor in a Canadian Ed-Tech company, Paper. He has a passion for consulting, marketing and risk management and hopes to contribute to those industries in the near future. 
+He has experience working in the educational sector as a Teaching Assistant at the University of Toronto and as a tutor in a Canadian Ed-Tech company, Paper. He has a passion for data visualization, marketing and sales and hopes to contribute to those industries in the near future. 
 
 ## Education
 
